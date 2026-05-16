@@ -1,0 +1,4 @@
+customtkinter
+pillow
+firebase-admin
+cryptography
